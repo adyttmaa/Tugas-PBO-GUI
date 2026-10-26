@@ -44,10 +44,10 @@ Aplikasi ini mengimplementasikan dua antarmuka pendeteksi interaksi pengguna:
 ![Tambah Pengingat](<screenshot/02-Tambah Pengingat.png>)
 
 ### 3. Validasi Input Tugas
-![Validasi Input](<screenshot\03-Validasi Input Tugas.png>)
+![Validasi Input](<screenshot\03-Validasi Input.png>)
 
 ### 4. Validasi Input Hapus Tugas
-![Konfirmasi Hapus](<screenshot\04-Validasi Input Hapus Tugas.png>)
+![Konfirmasi Hapus](<screenshot\04-Validasi input delete tugas.png>)
 
 ### 5. Konfirmasi Hapus Tugas
-![Tugas Terhapus](<screenshot\05-Konfirmasi Hapus Tugas.png>)
+![Tugas Terhapus](<screenshot\05-Konfirmasi delete tugas.png>)

@@ -51,3 +51,5 @@ Aplikasi ini mengimplementasikan dua antarmuka pendeteksi interaksi pengguna:
 
 ### 5. Konfirmasi Hapus Tugas
 ![Tugas Terhapus](screenshot/05-Konfirmasi%20delete%20tugas.png)
+
+---
